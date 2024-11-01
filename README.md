@@ -1,1 +1,1 @@
-This file contains cses searching and sorting questinns solutions .
+This file contains cses searching and sorting questions solutions .
